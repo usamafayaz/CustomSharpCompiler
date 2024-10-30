@@ -1,4 +1,4 @@
-# CustomSharpCompiler
+# Custom Sharp Compiler
 
 ## Overview
 CustomSharpCompiler is a semester project built as a Windows Forms application in C#. It compiles a custom programming language with support for variable declarations, operations, functions, and control structures.
@@ -44,7 +44,7 @@ Supports `for` loops with custom syntax.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/usamafayaz/CustomSharpCompiler.git
+    git clone https://github.com/usamafayaz/custom-sharp-compiler.git
     ```
 
 2. Open the project in Visual Studio.
